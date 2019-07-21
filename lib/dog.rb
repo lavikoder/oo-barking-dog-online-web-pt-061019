@@ -8,6 +8,10 @@ class Dog
     @name
   end
   
+  def bark
+    "woof!"
+  end
+  
   
 end
 # Your code goes here!
